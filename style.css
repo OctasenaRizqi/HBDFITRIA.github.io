@@ -93,7 +93,7 @@ body{
     transform: translateX(-50%);
     background-color: #678983;
     width: 550px;
-    height: 730px;
+    min-height: auto;
     border-radius: 5px;
     box-shadow: darkslategray;
     display: none;
